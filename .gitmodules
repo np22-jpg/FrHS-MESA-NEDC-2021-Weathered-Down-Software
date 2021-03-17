@@ -1,0 +1,6 @@
+[submodule "lib/Arduino-FreeRTOS-SAMD21"]
+	path = lib/Arduino-FreeRTOS-SAMD21
+	url = https://github.com/BriscoeTech/Arduino-FreeRTOS-SAMD21.git
+[submodule "lib/Arduino_FreeRTOS_Library"]
+	path = lib/Arduino_FreeRTOS_Library
+	url = https://github.com/feilipu/Arduino_FreeRTOS_Library.git
